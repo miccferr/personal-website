@@ -96,7 +96,7 @@ h1 {
   margin: 60px 0;
 }
 h1 a {
-  color: #d42;
+  color: #999;
 }
 h1 a:hover {
   color: #c30;
@@ -113,7 +113,7 @@ h1 a:hover {
   float: left;
   vertical-align: top;
   margin: 0 20px 0 0;
-  height: 360px;
+  height: auto;
   overflow: hidden;
 }
 @media screen and (max-width: 640px) {
@@ -188,7 +188,7 @@ p {
 }
 
 a {
-  color: #d42;
+  color: #999;
   text-decoration: none;
   cursor: pointer;
 }
@@ -388,7 +388,7 @@ nav a {
   display: block;
 }
 .post .small-link:hover {
-  color: #d42;
+  color: #999;
 }
 .post .large-link {
   font-size: 20px;
@@ -779,4 +779,32 @@ code {
 /* Literal.Number.Integer.Long */
 .highlight .il {
   color: #2AA198;
+}
+
+.img-preview {
+  color: #ff7a7a;
+  position: absolute;
+  display: block;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #00b19e;
+  zoom: 1;
+  filter: alpha(opacity=0);
+  -webkit-opacity: 0;
+  -moz-opacity: 0;
+  opacity: 0;
+  -webkit-transition: all 350ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  -moz-transition: all 350ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  -o-transition: all 350ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  transition: all 350ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.img-preview:hover {
+  opacity: 0.7;
+}
+
+.img-preview-container {
+  position: relative;
 }

@@ -43,12 +43,12 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
-  
-h1 {  
+
+h1 {
   font-size: 60px;
   margin: 60px 0;
   a {
-    color: $red;
+    color: $medGray;
     &:hover {
       color: $darkRed;
     }
@@ -66,7 +66,7 @@ h1 {
   float: left;
   vertical-align: top;
   margin: 0 20px 0 0;
-  height: 360px;
+  height: auto;
   overflow: hidden;
   @include mobile {
     margin: 0 20px;
@@ -99,17 +99,17 @@ h1 {
   }
 }
 
-h2 {  
+h2 {
   font-size: 24px;
   margin: 48px 0 12px;
 }
 
-h3 {  
+h3 {
   font-size: 20px;
   margin: 40px 0 10px;
 }
 
-h4 {  
+h4 {
   font-size: 18px;
   color: $gray;
   margin: 36px 0 9px;
@@ -134,7 +134,7 @@ p {
 }
 
 a {
-  color: $red;
+  color: $medGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -256,7 +256,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue; 
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
 }
@@ -265,7 +265,7 @@ img {
   margin: -5px 0 0 0;
   font-size: 14px;
   font-family: $helveticaNeue;
-  
+
   @include mobile {
     margin: 3px 0;
   }
@@ -274,9 +274,9 @@ img {
 nav {
   float: right;
   margin-top: 23px;
-  font-family: $helveticaNeue; 
+  font-family: $helveticaNeue;
   font-size: 12px;
-  
+
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -307,7 +307,7 @@ article {
   }
 }
 
-.post { 
+.post {
   blockquote {
     margin: 1.8em .8em;
     border-left: 1px dotted $gray;
@@ -333,7 +333,7 @@ article {
     color: $medGray;
     display: block;
       &:hover {
-        color: $red;
+        color: $medGray;
       }
   }
   .large-link {
@@ -369,3 +369,37 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_highlights";
+
+
+// custom
+// .img-preview .on-hover .opacity-yes{
+//   background-color: #ffa0a0 !important;
+// }
+
+.img-preview{
+    color: #ff7a7a;
+    position: absolute;
+    display: block;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #00b19e;
+    zoom: 1;
+    filter: alpha(opacity=0);
+    -webkit-opacity: 0;
+    -moz-opacity: 0;
+    opacity: 0;
+    // visibility: hidden;
+    -webkit-transition: all 350ms cubic-bezier(.445,.050,.55,.95);
+    -moz-transition: all 350ms cubic-bezier(.445,.050,.55,.95);
+    -o-transition: all 350ms cubic-bezier(.445,.050,.55,.95);
+    transition: all 350ms cubic-bezier(.445,.050,.55,.95);
+}
+.img-preview:hover{
+  // visibility: visible;
+  opacity: 0.7;
+}
+.img-preview-container{
+      position: relative;
+}
