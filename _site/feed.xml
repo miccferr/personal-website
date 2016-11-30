@@ -8,28 +8,11 @@
     
       <item>
         <title>Telecom Big Data Challenge</title>
-        <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
+        <description>&lt;p&gt;In the spring of 2013 I had the opportunity to attend a course on “Multivariate Statistics” at the Faculty of &lt;a href=&quot;https://mox.polimi.it/&quot;&gt;Mathematics Engineering&lt;/a&gt;, Politecnico di Milano. During the entire semester I worked on a project with a group of engineers, using the absolute volume of traffic (in Erlang) from mobile phone data, to model people’s presence and movement within Milan’s first urban belt, and derive a land-use classification based entirely on such data.&lt;/p&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
-
-&lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
-
-&lt;p&gt;Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item&lt;/li&gt;
-  &lt;li&gt;Another list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;h4-heading-looks-like-this&quot;&gt;H4 Heading Looks Like This&lt;/h4&gt;
-
-&lt;p&gt;Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a sample blockquote. Landjaeger shoulder ham capicola.
-Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-michele-ferretti-roberto-pensa-paolo-terzi-luca-turconi&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: Michele Ferretti, Roberto Pensa, Paolo Terzi, Luca Turconi&lt;/h4&gt;
 </description>
         <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/telecom/</link>
@@ -38,28 +21,15 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
     
       <item>
         <title>Maptime Milano</title>
-        <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
+        <description>&lt;p&gt;“Maptime is an open learning environment for all levels and degrees of knowledge, offering intentional educational support for the beginner. Maptime is simultaneously flexible and structured, creating space for mapping tutorials, workshops, ongoing projects with a shared goal, and independent/collaborative work time.. (from :&lt;a href=&quot;http://maptime.io/about/&quot;&gt;maptime.io/about&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
+&lt;p&gt;In December 2014 I started the &lt;a href=&quot;https://twitter.com/MaptimeMI&quot;&gt;Milanese chapter&lt;/a&gt; in the amazing FabLab &lt;a href=&quot;opendotlab.it&quot;&gt;Opendot&lt;/a&gt;. Since then, we had the most fun and interesting nights, learning together web-mapping tools such as &lt;a href=&quot;leafletjs.com&quot;&gt;LeafletJS&lt;/a&gt; and &lt;a href=&quot;https://www.mapbox.com/mapbox-studio/#darwin&quot;&gt;Mapbox Studio&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
+&lt;p&gt;But this is just the beginning! In the next few months we’ll have various guest such as data journalist and designers, to teach us the best practices of storytelling and data visualization.
+As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item&lt;/li&gt;
-  &lt;li&gt;Another list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;h4-heading-looks-like-this&quot;&gt;H4 Heading Looks Like This&lt;/h4&gt;
-
-&lt;p&gt;Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a sample blockquote. Landjaeger shoulder ham capicola.
-Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h4 id=&quot;year-ongoing-from-2014-monthly-basis&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: ongoing from 2014 (monthly basis)&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
 </description>
         <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/maptime/</link>
@@ -67,29 +37,15 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
       </item>
     
       <item>
-        <title>Death of Distance</title>
-        <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
+        <title>The Death of Distance</title>
+        <description>&lt;p&gt;Despite a certain line of thought mainly developed across the end of the 90’s and the beginning of the 00’s, which claimed for a supposed “Death of Distance”, arguing for a “Flatter World” in respect to social and economic phenomena, hard evidence still seems to stand up for the contrary. The same spread of ICT and new communication technologies that supposedly would have put an “End to Geography”, has indeed provided plenty of data for successive studies that assessed the relevance of geographic dimension in shaping nowadays interactions between and within urban environments.&lt;/p&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
+&lt;p&gt;The thesis work aims to dwell further in the understanding of socio-economic processes mediated through space, and on their effects on the urban milieu, by exploiting, for its own analyses, data coming from the exact same technologies that the “World is Flat” hypothesis theorised as one of the pillars of the Globalization 3.0 homogeneous landscape.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
+&lt;p&gt;In doing so, it positions itself at the convergence of different research paths: Economics, Urban Studies, Social and Quantitative Research, Computational Informatics..hopefully providing an additional example of the usefulness and richness of applying Computer Science methodologies to innovative data sources harvested from the mobile phone sensors to the service of urban research.&lt;/p&gt;
 
-&lt;p&gt;Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item&lt;/li&gt;
-  &lt;li&gt;Another list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;h4-heading-looks-like-this&quot;&gt;H4 Heading Looks Like This&lt;/h4&gt;
-
-&lt;p&gt;Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a sample blockquote. Landjaeger shoulder ham capicola.
-Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
 </description>
         <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/dod/</link>
@@ -102,11 +58,9 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 &lt;p&gt;Building upon such premises, the Alpinescapes project poses itself as a novel tentative to link these multiple dimensions, by focusing on OpenData and Open licensing to collect, organise, provide access to and ultimately give back and contribute, to the existing open content on the alpine landscape (and its heritage, geography and anthropology…) of Valsassina valley in Northern Italy. Linking data from traditional Geographic Information Science repositories to Wikipedia and from local Public Institutions geo-databases to the crowdsourced planetary database of OpenStreetMap, the project aims at building an easy-to-use platform, not only for the promotion and exploration of the areas’ surroundings, but most crucially to enable the participative construction and representation of Valsassina’s landscape as perceived by its User/Citizens.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Team Supervisor: &lt;a href=&quot;https://twitter.com/danielevilla&quot;&gt;Daniele Villa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Developers: Paolo Tagliolato, Michele Ferretti&lt;/li&gt;
-  &lt;li&gt;Project Partners: &lt;a href=&quot;http://www.interreg-italiasvizzera.it/home-it&quot;&gt;INTERREG ITA-CH&lt;/a&gt; &lt;a href=&quot;http://www.valsassina.it/&quot;&gt;Comunità Montana della Valsassina&lt;/a&gt; &lt;a href=&quot;http://www.supsi.ch/home.html&quot;&gt;SUSPI-Lugano&lt;/a&gt; &lt;a href=&quot;http://www.polimi.it/&quot;&gt;Politecnico di Milano&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;year-2014&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2014&lt;/h4&gt;
+&lt;h4 id=&quot;client--interreg-ita-ch-comunità-montana-della-valsassina-suspi-lugano-politecnico-di-milano&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;:  &lt;a href=&quot;http://www.interreg-italiasvizzera.it/home-it&quot;&gt;INTERREG ITA-CH&lt;/a&gt;, &lt;a href=&quot;http://www.valsassina.it/&quot;&gt;Comunità Montana della Valsassina&lt;/a&gt;, &lt;a href=&quot;http://www.supsi.ch/home.html&quot;&gt;SUSPI-Lugano&lt;/a&gt;, &lt;a href=&quot;http://www.polimi.it/&quot;&gt;Politecnico di Milano&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;team-daniele-villa-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: &lt;a href=&quot;https://twitter.com/danielevilla&quot;&gt;Daniele Villa&lt;/a&gt;, Paolo Tagliolato, Michele Ferretti&lt;/h4&gt;
 </description>
         <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/alpinescapes/</link>
@@ -115,32 +69,70 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
     
       <item>
         <title>Nokia Data Challenge</title>
-        <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
+        <description>&lt;p&gt;Research idea for the Nokia Mobile Data Challenge 2012 - Open Challenge Track&lt;/p&gt;
 
-&lt;p&gt;Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round.&lt;/p&gt;
+&lt;p&gt;Project Title: “Identification of significant places and life practices through mobile usage data: a urban analysis perspective”&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading-looks-like-this&quot;&gt;H3 Heading Looks Like This&lt;/h3&gt;
+&lt;p&gt;Background: Urban analytics techniques appear to be increasingly inadequate in describing city dynamics such as urban spaces usages by temporary populations, which are inherently characterized by time-dependent intensity variations. A first consideration regards traditional sources for the analysis of daily mobility, an information through which it is possible to interpret daily urban practices. The main sources of data are surveys on commuters flows. They provide a very partial picture of daily practices in urban areas, because they collect only flows for job and study purposes. Therefore they are unable to describe the main components of urban mobility, that rapidly changes because of the occurrence of demographic, economic and social dynamics. Analyzing the spatial and temporal usage of cities in their contemporary daily-life practices requires an integration between traditional data (land cover, town plans, spatial distribution of activities, etc.) and new sources of information aimed at identifying the complexity and multiplicity of individual behaviors. Recognizing and mapping the flows and patterns of daily mobility, in their spatial and temporal dimensions, could be a major achievement in the understanding of contemporary city dynamics for Urban Studies and for Urban Planning.&lt;/p&gt;
 
-&lt;p&gt;Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sample ordered list&lt;/li&gt;
-  &lt;li&gt;List item&lt;/li&gt;
-  &lt;li&gt;Another list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;h4-heading-looks-like-this&quot;&gt;H4 Heading Looks Like This&lt;/h4&gt;
-
-&lt;p&gt;Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a sample blockquote. Landjaeger shoulder ham capicola.
-Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-fabio-manfredini-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Fabio Manfredini, Paolo Tagliolato, Michele Ferretti”&lt;/h4&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/nokia/</link>
         <guid isPermaLink="true">http://localhost:4000/nokia/</guid>
+      </item>
+    
+      <item>
+        <title>Interactive Table</title>
+        <description>&lt;p&gt;Research idea for the Nokia Mobile Data Challenge 2012 - Open Challenge Track&lt;/p&gt;
+
+&lt;p&gt;Project Title: “Identification of significant places and life practices through mobile usage data: a urban analysis perspective”&lt;/p&gt;
+
+&lt;p&gt;Background: Urban analytics techniques appear to be increasingly inadequate in describing city dynamics such as urban spaces usages by temporary populations, which are inherently characterized by time-dependent intensity variations. A first consideration regards traditional sources for the analysis of daily mobility, an information through which it is possible to interpret daily urban practices. The main sources of data are surveys on commuters flows. They provide a very partial picture of daily practices in urban areas, because they collect only flows for job and study purposes. Therefore they are unable to describe the main components of urban mobility, that rapidly changes because of the occurrence of demographic, economic and social dynamics. Analyzing the spatial and temporal usage of cities in their contemporary daily-life practices requires an integration between traditional data (land cover, town plans, spatial distribution of activities, etc.) and new sources of information aimed at identifying the complexity and multiplicity of individual behaviors. Recognizing and mapping the flows and patterns of daily mobility, in their spatial and temporal dimensions, could be a major achievement in the understanding of contemporary city dynamics for Urban Studies and for Urban Planning.&lt;/p&gt;
+
+&lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-fabio-manfredini-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Fabio Manfredini, Paolo Tagliolato, Michele Ferretti”&lt;/h4&gt;
+</description>
+        <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/interactive-table/</link>
+        <guid isPermaLink="true">http://localhost:4000/interactive-table/</guid>
+      </item>
+    
+      <item>
+        <title>3d Map</title>
+        <description>&lt;p&gt;Research idea for the Nokia Mobile Data Challenge 2012 - Open Challenge Track&lt;/p&gt;
+
+&lt;p&gt;Project Title: “Identification of significant places and life practices through mobile usage data: a urban analysis perspective”&lt;/p&gt;
+
+&lt;p&gt;Background: Urban analytics techniques appear to be increasingly inadequate in describing city dynamics such as urban spaces usages by temporary populations, which are inherently characterized by time-dependent intensity variations. A first consideration regards traditional sources for the analysis of daily mobility, an information through which it is possible to interpret daily urban practices. The main sources of data are surveys on commuters flows. They provide a very partial picture of daily practices in urban areas, because they collect only flows for job and study purposes. Therefore they are unable to describe the main components of urban mobility, that rapidly changes because of the occurrence of demographic, economic and social dynamics. Analyzing the spatial and temporal usage of cities in their contemporary daily-life practices requires an integration between traditional data (land cover, town plans, spatial distribution of activities, etc.) and new sources of information aimed at identifying the complexity and multiplicity of individual behaviors. Recognizing and mapping the flows and patterns of daily mobility, in their spatial and temporal dimensions, could be a major achievement in the understanding of contemporary city dynamics for Urban Studies and for Urban Planning.&lt;/p&gt;
+
+&lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-fabio-manfredini-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Fabio Manfredini, Paolo Tagliolato, Michele Ferretti”&lt;/h4&gt;
+</description>
+        <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/3d-map/</link>
+        <guid isPermaLink="true">http://localhost:4000/3d-map/</guid>
+      </item>
+    
+      <item>
+        <title>Imaginary Cities</title>
+        <description>&lt;p&gt;Research idea for the Nokia Mobile Data Challenge 2012 - Open Challenge Track&lt;/p&gt;
+
+&lt;p&gt;Project Title: “Identification of significant places and life practices through mobile usage data: a urban analysis perspective”&lt;/p&gt;
+
+&lt;p&gt;Background: Urban analytics techniques appear to be increasingly inadequate in describing city dynamics such as urban spaces usages by temporary populations, which are inherently characterized by time-dependent intensity variations. A first consideration regards traditional sources for the analysis of daily mobility, an information through which it is possible to interpret daily urban practices. The main sources of data are surveys on commuters flows. They provide a very partial picture of daily practices in urban areas, because they collect only flows for job and study purposes. Therefore they are unable to describe the main components of urban mobility, that rapidly changes because of the occurrence of demographic, economic and social dynamics. Analyzing the spatial and temporal usage of cities in their contemporary daily-life practices requires an integration between traditional data (land cover, town plans, spatial distribution of activities, etc.) and new sources of information aimed at identifying the complexity and multiplicity of individual behaviors. Recognizing and mapping the flows and patterns of daily mobility, in their spatial and temporal dimensions, could be a major achievement in the understanding of contemporary city dynamics for Urban Studies and for Urban Planning.&lt;/p&gt;
+
+&lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-fabio-manfredini-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Fabio Manfredini, Paolo Tagliolato, Michele Ferretti”&lt;/h4&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/imaginary-cities/</link>
+        <guid isPermaLink="true">http://localhost:4000/imaginary-cities/</guid>
       </item>
     
   </channel>

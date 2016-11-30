@@ -4,7 +4,7 @@ title: Alpinescapes
 desc: Brief excerpt or project description goes here and looks like this
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-url-bool: true
-proj-num: 02
+proj-num: 05
 image_path: /assets/images/mic/250/alpine-250.png
 image_gallery: /images/mic/alpine/
 gallery_descriptor: /assets/images/mic/alpine
@@ -16,7 +16,6 @@ Following the agreement on the "European Landscape Convention" (European Commiss
 
 Building upon such premises, the Alpinescapes project poses itself as a novel tentative to link these multiple dimensions, by focusing on OpenData and Open licensing to collect, organise, provide access to and ultimately give back and contribute, to the existing open content on the alpine landscape (and its heritage, geography and anthropology...) of Valsassina valley in Northern Italy. Linking data from traditional Geographic Information Science repositories to Wikipedia and from local Public Institutions geo-databases to the crowdsourced planetary database of OpenStreetMap, the project aims at building an easy-to-use platform, not only for the promotion and exploration of the areas' surroundings, but most crucially to enable the participative construction and representation of Valsassina's landscape as perceived by its User/Citizens.
 
-
-- Team Supervisor: [Daniele Villa](https://twitter.com/danielevilla)
-- Developers: Paolo Tagliolato, Michele Ferretti
-- Project Partners: [INTERREG ITA-CH](http://www.interreg-italiasvizzera.it/home-it) [Comunità Montana della Valsassina](http://www.valsassina.it/) [SUSPI-Lugano](http://www.supsi.ch/home.html) [Politecnico di Milano](http://www.polimi.it/)
+#### **Year**: 2014
+#### **Client**:  [INTERREG ITA-CH](http://www.interreg-italiasvizzera.it/home-it), [Comunità Montana della Valsassina](http://www.valsassina.it/), [SUSPI-Lugano](http://www.supsi.ch/home.html), [Politecnico di Milano](http://www.polimi.it/)
+#### **Team**: [Daniele Villa](https://twitter.com/danielevilla), Paolo Tagliolato, Michele Ferretti

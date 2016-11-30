@@ -1,0 +1,21 @@
+---
+layout: post
+title: Imaginary Cities
+desc: Brief excerpt or project description goes here and looks like this
+proj-url-bool: https://opendot.github.io/ml4a-invisible-cities
+proj-num: 01
+image_path: /assets/images/mic/250/imaginary-cities.png
+gallery_descriptor: /assets/images/mic/nokia
+---
+
+Research idea for the Nokia Mobile Data Challenge 2012 - Open Challenge Track
+
+
+Project Title: "Identification of significant places and life practices through mobile usage data: a urban analysis perspective"
+
+
+Background: Urban analytics techniques appear to be increasingly inadequate in describing city dynamics such as urban spaces usages by temporary populations, which are inherently characterized by time-dependent intensity variations. A first consideration regards traditional sources for the analysis of daily mobility, an information through which it is possible to interpret daily urban practices. The main sources of data are surveys on commuters flows. They provide a very partial picture of daily practices in urban areas, because they collect only flows for job and study purposes. Therefore they are unable to describe the main components of urban mobility, that rapidly changes because of the occurrence of demographic, economic and social dynamics. Analyzing the spatial and temporal usage of cities in their contemporary daily-life practices requires an integration between traditional data (land cover, town plans, spatial distribution of activities, etc.) and new sources of information aimed at identifying the complexity and multiplicity of individual behaviors. Recognizing and mapping the flows and patterns of daily mobility, in their spatial and temporal dimensions, could be a major achievement in the understanding of contemporary city dynamics for Urban Studies and for Urban Planning.
+
+#### **Year**: 2013
+#### **Client**: uncommissioned
+#### **Team**: "Fabio Manfredini, Paolo Tagliolato, Michele Ferretti"

@@ -44,6 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
 h1 {
   font-size: 60px;
   margin: 60px 0;
@@ -81,7 +82,7 @@ h1 {
   min-height: 60px;
   margin: 0 0 12px;
   letter-spacing: normal;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 #home h1.site-name {
@@ -114,6 +115,7 @@ h4 {
   font-size: 18px;
   color: $gray;
   margin: 36px 0 9px;
+  font-weight: 300;
 }
 
 p {
@@ -135,11 +137,11 @@ p {
 }
 
 a {
-  color: $medGray;
+    color: $medGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkerGray;
+    color: $myDarkBlue;
   }
 }
 
@@ -415,4 +417,12 @@ footer {
 }
 .img-preview-container{
       position: relative;
+}
+
+#gallery img{
+  padding-top: 20px;
+}
+
+.hero-title {
+  color: $myDarkBlue;
 }

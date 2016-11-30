@@ -130,7 +130,7 @@ h1 a:hover {
   min-height: 60px;
   margin: 0 0 12px;
   letter-spacing: normal;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 #home h1.site-name {
@@ -165,6 +165,7 @@ h4 {
   font-size: 18px;
   color: #777;
   margin: 36px 0 9px;
+  font-weight: 300;
 }
 
 p {
@@ -194,7 +195,7 @@ a {
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #333;
+  color: #2D2D33;
 }
 
 ul, ol {
@@ -808,4 +809,12 @@ code {
 
 .img-preview-container {
   position: relative;
+}
+
+#gallery img {
+  padding-top: 20px;
+}
+
+.hero-title {
+  color: #2D2D33;
 }
