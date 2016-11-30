@@ -6,15 +6,12 @@ permalink: /about/
 
 
 
-## Set up instructions
+## Hi there!
 
-Fork this Jekyll-Grid on Github: [https://github.com/femmebot/jekyll-grid](https://github.com/femmebot/jekyll-grid)
+My name is Michele.
 
-Part of the [25x52](http://25x52.com) initiative, this theme is based on [Jekyll Now](https://github.com/barryclark/jekyll-now). Refer to the following original instructions for help with the setup:
+I'm currently pursuing a PhD at the [Department of Geography, King's College London](http://www.kcl.ac.uk/sspp/departments/geography/index.aspx). There, I'm affiliated with the _Geocomputation_ and the _Urban Futures_ research domains.
 
-> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+I'm passionate about (open)geospatial technologies and their applications to urban environments.
 
-> ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-> The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
+If you want to get in touch just send me an e-mail directly to: [michele.ferretti@kcl.ac.uk](mailto:michele.ferretti@kcl.ac.uk)

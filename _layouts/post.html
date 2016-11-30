@@ -8,12 +8,30 @@ layout: default
 
   <div class="entry">
     {{ content }}
+
+    <!-- External link -->
     <br>
     {% if page.proj-url-bool == true %}
       <a href="{{ page.proj-url }}"  target="_blank">View Project Site <i class="fa fa-external-link"></i></a>
     {% endif %}
+
+  <!-- Video -->
     <br>
-    {% include gallery.html %}
+    {% if page.video-bool == true %}
+      <video src="{{ site.url }}{{ page.video-url }}" autoplay width="50%" >
+        Sorry, your browser doesn't support embedded videos,
+        but don't worry, you can <a href="{{ site.baseurl }}{{ page.video-url }}">download it</a>
+        and watch it with your favorite video player!
+      </video>
+    {% endif %}
+
+  <!-- Pics -->
+    <br>
+    {% if page.pics == false %}
+    {% else %}
+    {% include gallery.html %}}
+    {% endif %}
+
   </div>
 
 
