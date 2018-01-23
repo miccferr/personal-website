@@ -14,4 +14,4 @@ I'm currently pursuing a PhD within the [Department of Geography, King's College
 
 I'm passionate about (open)geospatial technologies and their applications to urban environments.
 
-If you want to get in touch just send me an e-mail directly to: [michele.ferretti@kcl.ac.uk](mailto:michele.ferretti@kcl.ac.uk)
+To  get in touch just drop a line at : [michele.ferretti@kcl.ac.uk](mailto:michele.ferretti@kcl.ac.uk)
