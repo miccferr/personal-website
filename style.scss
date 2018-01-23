@@ -312,8 +312,14 @@ nav {
       width: 150px;
       text-align: center;
       padding-top: 10px;
-      margin:0;
+      margin: auto;
     
+    }
+  }
+
+  a:first-child{
+      @include mobile {
+      padding-top: 20px;
     }
   }
 }
