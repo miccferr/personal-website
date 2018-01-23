@@ -343,11 +343,11 @@ nav {
   }
 }
 nav a {
-  margin-left: 20px;
+  margin-right: 20px;
   color: #777;
-  width: 225px;
+  width: 25%;
   display: block;
-  float: right;
+  float: left;
 }
 @media screen and (max-width: 640px) {
   nav a {
@@ -357,6 +357,8 @@ nav a {
     color: #555;
     width: 150px;
     text-align: center;
+    padding-top: 10px;
+    margin: 0;
   }
 }
 
