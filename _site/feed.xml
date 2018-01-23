@@ -7,6 +7,42 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>ACHILLES</title>
+        <description>&lt;p&gt;ACHILLES:&lt;/p&gt;
+
+&lt;p&gt;Demo awarded 2nd Place at the DataSpark Mobility Challenge organized by
+the International Conference on Information and Knowledge Management
+(CIKM) - Singapore, Nov. 2017&lt;/p&gt;
+
+&lt;p&gt;Background: The availability of massive datasets describing human
+mobility offer the possibility to monitor and improve the resilience of
+transportation systems to traumatic events such as disasters of natural
+or anthropocentric origin. In this perspective, we propose a visual,
+data-driven and network-based simulation tool based on a multiplex
+network representation of mobility data, where every layer describes
+movement of people’s with a given trans- portation mode. We then develop
+a visual analytics tool which provides an easy-to-use interface to
+explore the mobility uxes and the connectivity of every urban zone in a
+city. Our visual analytics tool allows the user to visualize changes in
+the transportation system resulting from the addition or removal of
+transportation modes, urban zones and single stops. We show how our
+visual system can be used to explore mobility in Singapore, by using
+data provided by the CIKM challenge 2017 and Singapore mobility data
+obtained from external sources. e system allows to simulate the reaction
+to changes in the Singapore’s public trans- portation system, such as
+closing/adding transportation modes or subway/bus stops.&lt;/p&gt;
+
+&lt;h4 id=&quot;year-2017&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2017&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-michele-ferretti-gianni-barlacchi-luca-pappalardo&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Michele Ferretti, Gianni Barlacchi, Luca Pappalardo”&lt;/h4&gt;
+
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/achille/</link>
+        <guid isPermaLink="true">http://localhost:4000/achille/</guid>
+      </item>
+    
+      <item>
         <title>Telecom Big Data Challenge</title>
         <description>&lt;p&gt;In the spring of 2013 I had the opportunity to attend a course on “Multivariate Statistics” at the Faculty of &lt;a href=&quot;https://mox.polimi.it/&quot;&gt;Mathematics Engineering&lt;/a&gt;, Politecnico di Milano. During the entire semester I worked on a project with a group of engineers, using the absolute volume of traffic (in Erlang) from mobile phone data, to model people’s presence and movement within Milan’s first urban belt, and derive a land-use classification based entirely on such data.&lt;/p&gt;
 
@@ -14,7 +50,7 @@
 &lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
 &lt;h4 id=&quot;team-michele-ferretti-roberto-pensa-paolo-terzi-luca-turconi&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: Michele Ferretti, Roberto Pensa, Paolo Terzi, Luca Turconi&lt;/h4&gt;
 </description>
-        <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 05 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/telecom/</link>
         <guid isPermaLink="true">http://localhost:4000/telecom/</guid>
       </item>
@@ -31,7 +67,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;year-ongoing-from-2014-monthly-basis&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: ongoing from 2014 (monthly basis)&lt;/h4&gt;
 &lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
 </description>
-        <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 04 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/maptime/</link>
         <guid isPermaLink="true">http://localhost:4000/maptime/</guid>
       </item>
@@ -47,7 +83,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;year-2013&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2013&lt;/h4&gt;
 &lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
 </description>
-        <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 03 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/dod/</link>
         <guid isPermaLink="true">http://localhost:4000/dod/</guid>
       </item>
@@ -62,7 +98,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;client--interreg-ita-ch-comunità-montana-della-valsassina-suspi-lugano-politecnico-di-milano&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;:  &lt;a href=&quot;http://www.interreg-italiasvizzera.it/home-it&quot;&gt;INTERREG ITA-CH&lt;/a&gt;, &lt;a href=&quot;http://www.valsassina.it/&quot;&gt;Comunità Montana della Valsassina&lt;/a&gt;, &lt;a href=&quot;http://www.supsi.ch/home.html&quot;&gt;SUSPI-Lugano&lt;/a&gt;, &lt;a href=&quot;http://www.polimi.it/&quot;&gt;Politecnico di Milano&lt;/a&gt;&lt;/h4&gt;
 &lt;h4 id=&quot;team-daniele-villa-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: &lt;a href=&quot;https://twitter.com/danielevilla&quot;&gt;Daniele Villa&lt;/a&gt;, Paolo Tagliolato, Michele Ferretti&lt;/h4&gt;
 </description>
-        <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/alpinescapes/</link>
         <guid isPermaLink="true">http://localhost:4000/alpinescapes/</guid>
       </item>
@@ -79,7 +115,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
 &lt;h4 id=&quot;team-fabio-manfredini-paolo-tagliolato-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Fabio Manfredini, Paolo Tagliolato, Michele Ferretti”&lt;/h4&gt;
 </description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/nokia/</link>
         <guid isPermaLink="true">http://localhost:4000/nokia/</guid>
       </item>
@@ -92,13 +128,13 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;client-ordine-degli-architetti-di-milano-opendot&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: &lt;a href=&quot;www.ordinearchitetti.mi.it/&quot;&gt;Ordine degli Architetti di Milano&lt;/a&gt;, &lt;a href=&quot;www.opendotlab.it&quot;&gt;Opendot&lt;/a&gt;&lt;/h4&gt;
 &lt;h4 id=&quot;team-alessandro-masserdotti-andreji-boleslavsky-ambhika-samsen-michele-ferretti&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: Alessandro Masserdotti, Andreji Boleslavsky, Ambhika Samsen, Michele Ferretti&lt;/h4&gt;
 </description>
-        <pubDate>Mon, 02 Jul 2012 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 02 Jul 2012 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/interactive-table/</link>
         <guid isPermaLink="true">http://localhost:4000/interactive-table/</guid>
       </item>
     
       <item>
-        <title>3d Map</title>
+        <title>Tangible Map</title>
         <description>&lt;p&gt;An arduino-powered, 3d-printed map of Italy to physically represent statistical data (such as GDP, population density..).&lt;/p&gt;
 
 &lt;p&gt;Each region is independently controlled by a stepper motor and moves along the z-axis due to an (also 3d-printed) rack mechanism.&lt;/p&gt;
@@ -108,7 +144,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;year-2015&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2015&lt;/h4&gt;
 &lt;h4 id=&quot;team-alessandro-masserdotti-vittorio-cuculo-michele-ferretti-maurizio-napolitano&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: Alessandro Masserdotti, Vittorio Cuculo, Michele Ferretti, Maurizio Napolitano&lt;/h4&gt;
 </description>
-        <pubDate>Mon, 02 May 2011 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 02 May 2011 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/3d-map/</link>
         <guid isPermaLink="true">http://localhost:4000/3d-map/</guid>
       </item>
@@ -126,7 +162,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;year-2016&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2016&lt;/h4&gt;
 &lt;h4 id=&quot;team-gene-kogan-gabriele-gambotto-ambhika-samsen-andrej-boleslavský-michele-ferretti-damiano-gui-fabian-frei&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: Gene Kogan, Gabriele Gambotto, Ambhika Samsen, Andrej Boleslavský, Michele Ferretti, Damiano Gui, Fabian Frei&lt;/h4&gt;
 </description>
-        <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 29 Nov 2010 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/imaginary-cities/</link>
         <guid isPermaLink="true">http://localhost:4000/imaginary-cities/</guid>
       </item>

@@ -808,7 +808,9 @@ code {
 }
 
 .img-preview-container {
+  max-height: 143px;
   position: relative;
+  overflow: hidden;
 }
 
 #gallery img {
