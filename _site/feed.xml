@@ -7,6 +7,42 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>ACHILLES</title>
+        <description>&lt;p&gt;ACHILLES:&lt;/p&gt;
+
+&lt;p&gt;Demo awarded 2nd Place at the DataSpark Mobility Challenge organized by
+the International Conference on Information and Knowledge Management
+(CIKM) - Singapore, Nov. 2017&lt;/p&gt;
+
+&lt;p&gt;Background: The availability of massive datasets describing human
+mobility offer the possibility to monitor and improve the resilience of
+transportation systems to traumatic events such as disasters of natural
+or anthropocentric origin. In this perspective, we propose a visual,
+data-driven and network-based simulation tool based on a multiplex
+network representation of mobility data, where every layer describes
+movement of people’s with a given trans- portation mode. We then develop
+a visual analytics tool which provides an easy-to-use interface to
+explore the mobility uxes and the connectivity of every urban zone in a
+city. Our visual analytics tool allows the user to visualize changes in
+the transportation system resulting from the addition or removal of
+transportation modes, urban zones and single stops. We show how our
+visual system can be used to explore mobility in Singapore, by using
+data provided by the CIKM challenge 2017 and Singapore mobility data
+obtained from external sources. e system allows to simulate the reaction
+to changes in the Singapore’s public trans- portation system, such as
+closing/adding transportation modes or subway/bus stops.&lt;/p&gt;
+
+&lt;h4 id=&quot;year-2017&quot;&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2017&lt;/h4&gt;
+&lt;h4 id=&quot;client-uncommissioned&quot;&gt;&lt;strong&gt;Client&lt;/strong&gt;: uncommissioned&lt;/h4&gt;
+&lt;h4 id=&quot;team-michele-ferretti-gianni-barlacchi-luca-pappalardo&quot;&gt;&lt;strong&gt;Team&lt;/strong&gt;: “Michele Ferretti, Gianni Barlacchi, Luca Pappalardo”&lt;/h4&gt;
+
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/achille/</link>
+        <guid isPermaLink="true">http://localhost:4000/achille/</guid>
+      </item>
+    
+      <item>
         <title>Telecom Big Data Challenge</title>
         <description>&lt;p&gt;In the spring of 2013 I had the opportunity to attend a course on “Multivariate Statistics” at the Faculty of &lt;a href=&quot;https://mox.polimi.it/&quot;&gt;Mathematics Engineering&lt;/a&gt;, Politecnico di Milano. During the entire semester I worked on a project with a group of engineers, using the absolute volume of traffic (in Erlang) from mobile phone data, to model people’s presence and movement within Milan’s first urban belt, and derive a land-use classification based entirely on such data.&lt;/p&gt;
 
@@ -98,7 +134,7 @@ As always…&lt;em&gt;Beginners most welcome!&lt;/em&gt;&lt;/p&gt;
       </item>
     
       <item>
-        <title>3d Map</title>
+        <title>Tangible Map</title>
         <description>&lt;p&gt;An arduino-powered, 3d-printed map of Italy to physically represent statistical data (such as GDP, population density..).&lt;/p&gt;
 
 &lt;p&gt;Each region is independently controlled by a stepper motor and moves along the z-axis due to an (also 3d-printed) rack mechanism.&lt;/p&gt;
