@@ -305,7 +305,7 @@ nav {
     float: left;
 
     @include mobile {
-      display: inline-block;
+      display: block;
       float: none;
       margin: 0 10px;
       color: $darkGray;
@@ -319,7 +319,7 @@ nav {
 
   a:first-child{
       @include mobile {
-      padding-top: 20px;
+      padding-top: 40px;
     }
   }
 }
