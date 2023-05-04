@@ -1,2 +1,3 @@
-# micheleferretti.io-jekyll
-third iteration of my portfolio. welcome back jekyll
+# Personal Website - Portfolio
+
+This repo contains the code for my portfolio [micheleferretti.io](https://micheleferretti.io).
