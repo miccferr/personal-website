@@ -1,26 +1,43 @@
----
-layout: home
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css" />
+    <title>Michele Ferretti - Portfolio</title>
+  </head>
+  <body>
+    <div class="container">
 
-<div class="posts clearfix">
-  {% for post in site.posts %}
-    <article class="post">
-      <div class="eyebrow"></div>
-
-      <div class="img-preview-container">
-        <a href="{{ site.baseurl }}{{ post.url }}" >
-          <img src="{{ site.baseurl}}{{ post.image_path}}" alt="">
-          <span class="img-preview on-hover opacity-yes">
-
-          </span>
-        </a>
-
-
+      <div class="hi">
+        <ul class="text-fancy">
+          <li>Hi,</li>
+          <li>I'm Michele</li>
+        </ul>
       </div>
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="bio">
+        <ul>
+          <li>I currently work as <i>Senior Data Engineer</i> at <b>NVIDIA</b> | <a href="https://www.nvidia.com/en-us/self-driving-cars/"> Autonomous Driving</a></i>. </li>
+          <li>Previously, I worked as a <i> Machine Learning Scientist </i> at <b>Booking.com</b> and completed a PhD at <b>King's College London</b>, in collaboration with <b>IBM </b> <i>&amp;</i> <b> Mapbox </b>.</li>
+          <li> I design geospatial applications, and contribute to open-source <i><a href="https://github.com/scikit-mobility/scikit-mobility">code</a></i>,  <i><a href="https://kcl-humanitarian-mappers.com/">projects</a></i> and <i><a href="http://maptime.io/milan/resources/intro-maptime-milan-ITA/index.html#0"> communities</a></i>.</li>
+        </ul>  
+      </div> 
 
-    </article>
-  {% endfor %}
-
-
-</div>
+      <div class="footer">
+        <ul>
+          <li class="footer-left">&copy; 2023 Michele Ferretti</li>          
+          <li class="footer-center socials"> <a href="https://www.linkedin.com/in/micheleferretti/">Linkedin</a> </li>
+          <li class="footer-center socials"> <a href="https://github.com/miccferr">Github</a></li>
+          <li class="footer-right">
+            <a href="http://cv.pdf">Curriculum Vitæ</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+</html>
