@@ -4,75 +4,40 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.js"></script>
-    <link href="https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.css" rel="stylesheet" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&display=swap"
-      rel="stylesheet"
-    />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
     <link rel="stylesheet" href="style.css" />
     <title>Michele Ferretti - Portfolio</title>
   </head>
   <body>
     <div class="container">
-      <div class="main-name">
-        <ul class="fancy-text">
-          <li><i>Hi,</i></li>
-          <li><i>I'm Michele</i></li>
-        </ul>
-        <ul>
-          <li>
-            I design large-scale <a href="blank">Geospatial ML systems</a>, with a focus on
-            robustness and scalability.
-          </li>
-          <li>
-            Currently, I'm employed as <i>Senior Engineer</i> for NVIDIA where I work on
-            applications for autonomous driving.
-          </li>
+
+      <div class="hi">
+        <ul class="text-fancy">
+          <li>Hi,</li>
+          <li>I'm Michele</li>
         </ul>
       </div>
-
       <div class="bio">
         <ul>
-          <li>I hold a PhD from King's College London, in collaboration with IBM and Mapbox.</li>
-          <li>
-            I'm passionate about Open Source projects
-            <a href="https://github.com/scikit-mobility/scikit-mobility"></a>,
-            <a href="https://kcl-humanitarian-mappers.com/">volunteer</a> and community teaching
-            (maptime)
-          </li>
-        </ul>
-        <!-- <div class='map-container'>      
-        <div id='map'></div>`
-      </div> -->
-      </div>
+          <li>I currently work as <i>Senior Data Engineer</i> at <b>NVIDIA</b> | <a href="https://www.nvidia.com/en-us/self-driving-cars/"> Autonomous Driving</a></i>. </li>
+          <li>Previously, I worked as a <i> Machine Learning Scientist </i> at <b>Booking.com</b> and completed a PhD at <b>King's College London</b>, in collaboration with <b>IBM </b> <i>&amp;</i> <b> Mapbox </b>.</li>
+          <li> I design geospatial applications, and contribute to open-source <i><a href="https://github.com/scikit-mobility/scikit-mobility">code</a></i>,  <i><a href="https://kcl-humanitarian-mappers.com/">projects</a></i> and <i><a href="http://maptime.io/milan/resources/intro-maptime-milan-ITA/index.html#0"> communities</a></i>.</li>
+        </ul>  
+      </div> 
 
       <div class="footer">
-        <li class="footer-left">&copy; 2023 Michele Ferretti</li>
-
-        <li class="footer-center socials">twitter</li>
-        <li class="footer-center socials">linkedin</li>
-        <li class="footer-center socials">github</li>
-
-        <li class="footer-right">
-          <a href="http://cv.pdf">Full CV</a>
-        </li>
+        <ul>
+          <li class="footer-left">&copy; 2023 Michele Ferretti</li>          
+          <li class="footer-center socials"> <a href="https://www.linkedin.com/in/micheleferretti/">Linkedin</a> </li>
+          <li class="footer-center socials"> <a href="https://github.com/miccferr">Github</a></li>
+          <li class="footer-right">
+            <a href="http://cv.pdf">Curriculum Vitæ</a>
+          </li>
+        </ul>
       </div>
     </div>
-
-    <!-- <script>
-    // TO MAKE THE MAP APPEAR YOU MUST
-    // ADD YOUR ACCESS TOKEN FROM
-    // https://account.mapbox.com
-    mapboxgl.accessToken = 'pk.eyJ1IjoiY2FydG9taWtlIiwiYSI6ImNrcWkyZGUzbjBra2cycG55NHYyandlMmoifQ.EWunPP62K9D1zJmWwDa6Dw';
-    const map = new mapboxgl.Map({
-      container: 'map', // container ID
-      style: 'https://raw.githubusercontent.com/jingsam/mapbox-gl-styles/master/X-ray.json', // style URL
-      center: [-74.5, 40], // starting position [lng, lat]
-      zoom: 9, // starting zoom
-    });
-  </script> -->
-  </body>
 </html>
